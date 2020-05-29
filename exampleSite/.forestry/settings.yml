@@ -14,7 +14,7 @@ sections:
   label: Post
   create: all
   match: "**/*"
-upload_dir: ''
+upload_dir: https://tify-podcast.s3-us-west-2.amazonaws.com
 public_path: ''
 front_matter_path: ''
 use_front_matter_path: 
